@@ -7,5 +7,19 @@
     addr = "prophet.samleathers.com";
     port = 3001;
     # valency = 1; (default)
+  },
+  {
+   "operator": "umedsky",
+   "node":"SKY",
+   "addr": "relay1.oqulent.com",
+   "port": 3007,
+   "valency": 1
+  },
+  {
+   "operator": "umedsky",
+   "node":"SKY2",
+   "addr": "relay2.oqulent.com",
+   "port": 3008,
+   "valency": 1
   }
 ]
